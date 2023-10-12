@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-js-marvel-list",
+  "description": "Example project for Master INESDI 2023; modifying the DOM with Vanilla js",
+  "version": "0.1.0",
+  "private": false,
+  "author": {
+    "email": "manutero.developer@gmail.com",
+    "name": "Manuel Artero"
+  },
+  "dependencies": {}
+}

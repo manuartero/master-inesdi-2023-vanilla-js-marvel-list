@@ -1,0 +1,101 @@
+[
+  {
+    "code": "01050",
+    "name": "Hulk",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Aggression",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01050.png"
+  },
+  {
+    "code": "01051",
+    "name": "Tigra",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Aggression",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01051.png"
+  },
+  {
+    "code": "01058",
+    "name": "Daredevil",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Justice",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01058.png"
+  },
+  {
+    "code": "01059",
+    "name": "Jessica Jones",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Justice",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01059.png"
+  },
+  {
+    "code": "01066",
+    "name": "Hawkeye",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Leadership",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01066.png"
+  },
+  {
+    "code": "01067",
+    "name": "Maria Hill",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Leadership",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01067.png"
+  },
+  {
+    "code": "01068",
+    "name": "Vision",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Leadership",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01068.png"
+  },
+  {
+    "code": "01075",
+    "name": "Black Widow",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Protection",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01075.png"
+  },
+  {
+    "code": "01076",
+    "name": "Luke Cage",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Protection",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01076.png"
+  },
+  {
+    "code": "01083",
+    "name": "Mockingbird",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Basic",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01083.png"
+  },
+  {
+    "code": "01084",
+    "name": "Nick Fury",
+    "type": "Ally",
+    "package": "Core Set",
+    "faction": "Basic",
+    "deckLimit": 1,
+    "image": "https://marvelcdb.com//bundles/cards/01084.png"
+  }
+]
